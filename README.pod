@@ -1,0 +1,14 @@
+=head1 WordPress::DB
+
+=head2 What is WordPress::DB
+
+A collection of Perl classes to make it easier to talk to WordPress
+databases from Perl programs.
+
+This ia all very much a work in progress. It lets me do the things I want
+to do. If some features are missing that stop you doing the things that
+you want to do then let me know (or, better still, fork and patch the code).
+
+These classes currently support WordPress 3.4.1.
+
+The classes are based on DBIx::Class.
